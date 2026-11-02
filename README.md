@@ -356,9 +356,9 @@ footer {
 ```
 
 ## OUTPUT
-![alt text](op1.png)
-![alt text](op2.png)
-![alt text](op3.png)
+![alt text](files/op1.png)
+![alt text](files/op2.png)
+![alt text](files/op3.png)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
